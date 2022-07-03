@@ -1,0 +1,14 @@
+.home__bg {
+  background-image: url(../assets/OIP.jfif);
+  height: 92vh;
+  height: 92vh;
+  background-position: right;
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.home-message-icon {
+  margin-left: 10px;
+  display: inline-block;
+}
